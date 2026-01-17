@@ -431,7 +431,7 @@ Ejemplos de programas Python con distintos usos.
 66. Recopilador de noticias
     Desarrolla un programa que:
     - Reciba por parámetro una URL de inicio (ej: sección noticias de un periódico)
-    - Extraiga todos los titulares (etiqueta <h2> o <h3> con clase específica)
+    - Extraiga todos los titulares (etiqueta `<h2>` o `<h3>` con clase específica)
     - Guarde en un archivo CSV: título, URL del artículo, fecha publicación
     - Limite la extracción a máximo 50 artículos
     - Respete el robots.txt del sitio (consulta antes de scrapear)
