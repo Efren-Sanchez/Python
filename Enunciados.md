@@ -216,7 +216,7 @@ Ejemplos de programas Python con distintos usos.
     Debe tener al menos:
     - Ruta GET /tareas que devuelva en JSON la lista de tareas.
     - Ruta POST /tareas que reciba una tarea en JSON y la añada.
-    - Ruta DELETE /tareas/<id> que elimine una tarea por su identificador.
+    - Ruta DELETE /tareas/&lt;id> que elimine una tarea por su identificador.
 
 37. Conversor de divisas con API externa
     Haz un programa de consola que:
